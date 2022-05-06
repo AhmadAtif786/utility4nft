@@ -250,7 +250,7 @@ function HomePage() {
                           ) : (
                             <a
                               className="xl:text-sm py-[5px] px-[15px]  w-auto text-sm bg-white text-black font-bold"
-                              href="https://metamask.app.link/dapp/https://utility4nft.com/"
+                              href="https://metamask.app.link/dapp/git.heroku.com/sevensz.git"
                             >
                               <button variant="" className="solbutton mx-auto">
                                 Connect Wallet
