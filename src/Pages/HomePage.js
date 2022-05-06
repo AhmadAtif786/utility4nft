@@ -250,7 +250,7 @@ function HomePage() {
                           ) : (
                             <a
                               className="xl:text-sm py-[5px] px-[15px]  w-auto text-sm bg-white text-black font-bold"
-                              href="https://metamask.app.link/dapp/git.heroku.com/sevensz.git"
+                              href="https://metamask.app.link/dapp/sevensz.herokuapp.com/"
                             >
                               <button
                                 variant=""
