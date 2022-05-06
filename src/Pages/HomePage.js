@@ -252,7 +252,10 @@ function HomePage() {
                               className="xl:text-sm py-[5px] px-[15px]  w-auto text-sm bg-white text-black font-bold"
                               href="https://metamask.app.link/dapp/git.heroku.com/sevensz.git"
                             >
-                              <button variant="" className="solbutton mx-auto">
+                              <button
+                                variant=""
+                                className="xl:text-sm py-[5px] px-[15px]  w-auto text-sm bg-white text-black font-bold"
+                              >
                                 CONNECT WALLET
                               </button>
                             </a>
