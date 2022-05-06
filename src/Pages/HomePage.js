@@ -253,7 +253,7 @@ function HomePage() {
                               href="https://metamask.app.link/dapp/git.heroku.com/sevensz.git"
                             >
                               <button variant="" className="solbutton mx-auto">
-                                Connect Wallet
+                                CONNECT WALLET
                               </button>
                             </a>
                           )}
